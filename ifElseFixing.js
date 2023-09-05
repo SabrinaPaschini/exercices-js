@@ -4,7 +4,7 @@
 //else somente o comando {}
 
 
-let nome="sabrina"
+let nome="maria"
 
 if(nome == "sabrina"){
     console.log("o nome dela é sabrina.")
