@@ -11,4 +11,5 @@ let conte=1;
 do {
     console.log('conte é:'+ conte);
     conte++; 
-}while(conte<6)
+}while(conte=<6)
+
